@@ -7,4 +7,4 @@ INSTRUCTIONS TO RUN?
 - Then, you will have to guess the number the computer is holding on to! Good luck!!
 
 
-PS : Please give me criticism on how to improve the code as I'm still a beginner in coding, Thank you!
+PS : Please give me adequate feedback on how I should improve my code as I'm still a beginner in coding.Thank you!
